@@ -1,4 +1,7 @@
-**App Capability:**
+- This is a script that has the following capability
+- It was given as an assignment at onecampus' data science track, to test our basic use and command of the Python programming language, hence, the forfeital of the various better methods to perform some of the tasks shown in the Jupyter Notebook.
+
+**Script Capability:**
 
 - App is able hold information about the times in countries of the world.
 
